@@ -2,3 +2,15 @@
 
 + a .git hidden directory will be created that will store all of your files previous version in it. as you commit. If you want to use git version control software you should do it. it's how git works.
 
+________________________________________________________________________________________________________
+
+- How is the staging area different from the working directory and the repository? What value do you think it offers?
+
++ staging area is a place that lets you store version of the files before commiting them, it's a bridge between working directory and repositoty. Let's say that we have a project that has 10 files in it and last feature that we have added(small logical change) only effects 3 files in the project.
+If git didn't have staging area we should've creat a copy of all files even the ones that haven't changed. It would take more space and It would've been harder to debug.
+so I think it's a pretty good thing.
+
+________________________________________________________________________________________________________
+
+
+
