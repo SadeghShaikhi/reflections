@@ -1,3 +1,4 @@
+
 - What happens when you initialize a repository? Why do you need to do it?
 
 + a .git hidden directory will be created that will store all of your files previous version in it. as you commit. If you want to use git version control software you should do it. it's how git works.
@@ -12,5 +13,9 @@ so I think it's a pretty good thing.
 
 ________________________________________________________________________________________________________
 
+- How can you use the staging area to make sure you have one commit per logical change?
 
++ You can just type git status to be sure what will have in your next commit. This is useful because one logical change can happen in modifing multiple files or maybe just one file. either case you can add just the files that you need.
+
+________________________________________________________________________________________________________
 
