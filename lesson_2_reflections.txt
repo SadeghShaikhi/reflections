@@ -1,0 +1,4 @@
+- What happens when you initialize a repository? Why do you need to do it?
+
++ a .git hidden directory will be created that will store all of your files previous version in it. as you commit. If you want to use git version control software you should do it. it's how git works.
+
