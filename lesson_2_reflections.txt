@@ -19,3 +19,8 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________
 
+- What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
++ IF your trying a new feauture that you are not sure it will work. or if there is two type of the software. or if you are writing the software in many languages.
+
+_________________________________________________________________________________________________________
