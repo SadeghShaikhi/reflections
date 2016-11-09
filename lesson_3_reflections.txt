@@ -31,6 +31,14 @@ ________________________________________________________________________________
 
 + It would've been a nightmare.Github is really efficiant. no more comments.
 
+______________________________________________________________________________________
+
+- When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
++ When You want to add a new feature that your not sure will work or others will like it. or maybe when you just wanna play with the code. it's easier to use branches because if it worked you can merge it. and if it didn't you can always come back to it without being worried about any changes that others or yourself have made.
+
+______________________________________________________________________________________
+
 
 
 
