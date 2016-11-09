@@ -1,0 +1,5 @@
+- When would you want to use a remote repository rather than keeping all your work local?
+
++ When You're working on different computers or when you're working with a group on a project. In my openion
+it's always a good idea to use a remote repository, even if none of the above situations are true, what if 
+your files get deleted???
