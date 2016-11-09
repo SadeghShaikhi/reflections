@@ -12,3 +12,13 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________
 
+- Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
++ Fork is used only on github servers. it's a way to copy a repository that the name of the first author is still hanging around.
+Cloning doesn't care about the author of the repository and it's not accessable directly in github.
+you should clone the repository in your computer and then make another remote for it.
+
+______________________________________________________________________________________
+
+
+
