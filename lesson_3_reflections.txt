@@ -20,5 +20,12 @@ you should clone the repository in your computer and then make another remote fo
 
 ______________________________________________________________________________________
 
+- What is the benefit of having a copy of the last known state of the remote stored locally?
+
++ We can know that how different is local state with remote state by camparing them. 
+we can also work with other people easier since we can compare our with their latest work.
+
+______________________________________________________________________________________
+
 
 
