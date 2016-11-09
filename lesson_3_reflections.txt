@@ -27,5 +27,11 @@ we can also work with other people easier since we can compare our with their la
 
 ______________________________________________________________________________________
 
+- How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
++ It would've been a nightmare.Github is really efficiant. no more comments.
+
+
+
 
 
