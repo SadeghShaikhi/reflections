@@ -28,3 +28,11 @@ ________________________________________________________________________________
 - How do the diagrams help you visualize the branch structure?
 
 + How? well they are like a map of all of your previous versions. They make undrestanding our whole project much more easier.
+
+_________________________________________________________________________________________________________
+
+- What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
++ They two branch become one. So we are able to delete the small branch. All of the previous commits will be saved even if the small branch is deleted because all those commits are labled with the lable of 2 branches that merged together. If we remove a branch that it commits only have 1 lable commits will be deleted too.
+
+___________________________________________________________________________________________________________
