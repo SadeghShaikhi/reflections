@@ -24,3 +24,7 @@ ________________________________________________________________________________
 + IF your trying a new feauture that you are not sure it will work. or if there is two type of the software. or if you are writing the software in many languages.
 
 _________________________________________________________________________________________________________
+
+- How do the diagrams help you visualize the branch structure?
+
++ How? well they are like a map of all of your previous versions. They make undrestanding our whole project much more easier.
