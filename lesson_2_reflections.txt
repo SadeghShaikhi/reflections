@@ -36,3 +36,9 @@ ________________________________________________________________________________
 + They two branch become one. So we are able to delete the small branch. All of the previous commits will be saved even if the small branch is deleted because all those commits are labled with the lable of 2 branches that merged together. If we remove a branch that it commits only have 1 lable commits will be deleted too.
 
 ___________________________________________________________________________________________________________
+
+- What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
++ It save us a lot of time when we there is no conflict. Also when there is conflict it directly shows us the conflict so it's still a huge save of time. If we do merges our self it might just take for ever....
+
+____________________________________________________________________________________________________________
